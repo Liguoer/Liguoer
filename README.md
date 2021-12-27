@@ -1,5 +1,5 @@
 ### Hi there 👋
-### this is a tsst!
+### this is a test!
 <!--
 **Liguoer/Liguoer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
